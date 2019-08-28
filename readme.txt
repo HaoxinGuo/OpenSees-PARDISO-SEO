@@ -1,3 +1,7 @@
+Three times faster than BandGeneral
+Two times faster than SparseSPD
+Four times faster than SuperLU
+
 PARDISO SOE Solver Part 1: Compiling OpenSees
 https://www.youtube.com/watch?v=7bygmlnS02Q
 
